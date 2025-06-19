@@ -21,3 +21,31 @@ user = 'John'
 #Invalid variable
 second_variable = 10
 user_name = 20
+
+
+#Operatrs
+
+#Addition (+)
+#Sabtraction (-)
+#Maltiplication (*)
+#Division (/)
+#Modulus (%)
+#Exponent (**)
+
+
+
+x = 10
+y = 2
+
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x%y)
+print(5%2)
+print(x**y)
+
+x = 10
+x += 2
+
+print(x)
