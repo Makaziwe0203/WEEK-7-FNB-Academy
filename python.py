@@ -49,3 +49,13 @@ x = 10
 x += 2
 
 print(x)
+
+
+
+#Operators with Strings
+
+str1 = 'Hellow'
+str2 = 'World'
+str3 = 'beutiful'
+
+print(str1 + "  " + str2 + " " + str3)
